@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"POT-Creation-Date: 12/23/2018\n"
+"PO-Revision-Date: 2019-03-16 22:25-0300\n"
+"Language-Team: correiatec\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: Paulo\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# ddos-attack.php:8
+msgid "Protect WP-Login from DDOS Attack. To get started: activate the DDOS Attack"
+msgstr "Protege o WP-Login de um Ataque DDOS. Como iniciar: ative o plugin"
+
+# ddos-attack.php:80
+msgid "Settings"
+msgstr "Configurações"
+
+# ddos-attack.php:86
+msgid "Enabled"
+msgstr "Habilitado"
+
+# ddos-attack.php:90
+msgid "Yes"
+msgstr "Sim"
+
+# ddos-attack.php:93
+msgid "No"
+msgstr "Não"
+
+# ddos-attack.php:97
+# msgid "No"
+# msgstr "Não"
+# ddos-attack.php:100
+# msgid "Yes"
+# msgstr "Sim"
+# ddos-attack.php:107
+msgid "Quantity"
+msgstr "Número de Tentativas"
+
+# ddos-attack.php:111
+msgid "Redirected Site"
+msgstr "Mandar para o Site"
+
+# ddos-attack.php:115
+msgid "Send E-mail"
+msgstr "Enviar E-mail"
+
+# ddos-attack.php:119
+# msgid "Yes"
+# msgstr "Sim"
+# ddos-attack.php:122
+# msgid "No"
+# msgstr "Não"
+# ddos-attack.php:126
+# msgid "No"
+# msgstr "Não"
+# ddos-attack.php:129
+# msgid "Yes"
+# msgstr "Sim"
+# ddos-attack.php:135
+msgid "Administrator E-mail"
+msgstr "E-mail do Administrador"
+
+# ddos-attack.php:142
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+# ddos-attack.php:162
+msgid "DDOS Attack Options"
+msgstr "Opções do DDOS Attack"
